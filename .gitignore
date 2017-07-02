@@ -1,0 +1,20 @@
+# Java class files
+*.class
+
+# generated files
+bin/
+
+# Eclipse project files
+.settings/
+.classpath
+.project
+
+#Gradle
+.gradle/
+gradle/
+build/
+gradlew
+gradlew.bat
+
+#apiKey
+src/main/resources/apikey.properties
